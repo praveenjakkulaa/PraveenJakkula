@@ -1,5 +1,3 @@
-# PraveenJakkula
-
 <h1 align="center">Hi there I'm Praveen Jakkula</h1>
 <h3 align="center">I'm a Full Stack Developer with a passion for creating impactful web applications.</h3>
 
